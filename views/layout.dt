@@ -1,0 +1,7 @@
+!!! 5
+html
+    head
+        title Mined
+        link(href="/static/css/layout.css", rel="stylesheet")
+    body
+        block content

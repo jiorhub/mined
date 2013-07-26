@@ -1,0 +1,12 @@
+{
+    "name": "mined",
+    "description": "Redmine extension",
+    "homepage": "http://proslon.ru",
+    "copyright": "Copyright © 2013, Jior",
+    "authors": [
+        "Jior"
+    ],
+    "dependencies": {
+        "vibe-d": "~master"
+    }
+}

@@ -1,0 +1,7 @@
+extends layout
+
+block content
+    - foreach(issue; issues)
+        div.issue
+            h4= issue.subject
+            p= issue.description
